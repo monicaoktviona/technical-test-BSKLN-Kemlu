@@ -32,3 +32,10 @@ Catatan: Data yang ditampilkan hanya data sampel yang tersedia di soal (terdiri 
 
 
 ### Referensi:
+- https://santrikoding.com/tutorial-restful-api-laravel-10-1-install-laravel-10
+- https://dev.to/kasenda/use-repository-pattern-with-laravel-e8h
+- https://djangocas.dev/blog/posts/ios-3166-country-codes-json/
+- https://yajrabox.com/docs/laravel-datatables/11.0
+- https://santrikoding.com/tutorial-set/tutorial-laravel-11-untuk-pemula
+- https://santrikoding.com/tutorial-restful-api-laravel-11-4-menampilkan-data-dari-database
+- https://leafletjs.com/
